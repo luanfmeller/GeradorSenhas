@@ -1,0 +1,19 @@
+C:\Users\wr5805\Downloads\password-generator-master\password_generator\bin\Debug\Gerador de Senha.exe.config
+C:\Users\wr5805\Downloads\password-generator-master\password_generator\bin\Debug\Gerador de Senha.exe
+C:\Users\wr5805\Downloads\password-generator-master\password_generator\bin\Debug\Gerador de Senha.pdb
+C:\Users\wr5805\Downloads\password-generator-master\password_generator\obj\Debug\GeradorSenhas.Properties.Resources.resources
+C:\Users\wr5805\Downloads\password-generator-master\password_generator\obj\Debug\GeradorSenhas.csproj.GenerateResource.cache
+C:\Users\wr5805\Downloads\password-generator-master\password_generator\obj\Debug\GeradorSenhas.csproj.CoreCompileInputs.cache
+C:\Users\wr5805\Downloads\password-generator-master\password_generator\obj\Debug\Gerador de Senha.exe
+C:\Users\wr5805\Downloads\password-generator-master\password_generator\obj\Debug\Gerador de Senha.pdb
+C:\Users\wr5805\Downloads\password-generator-master\password_generator\obj\Debug\GeradorSenhas.frmGerarSenha.resources
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\bin\Debug\Gerador de Senha.exe.config
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\bin\Debug\Gerador de Senha.exe
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\bin\Debug\Gerador de Senha.pdb
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.csprojAssemblyReference.cache
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.frmGerarSenha.resources
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.Properties.Resources.resources
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.csproj.GenerateResource.cache
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.csproj.CoreCompileInputs.cache
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\obj\Debug\Gerador de Senha.exe
+C:\Users\wr5805\Downloads\GeradorSenhas\GeradorSenhas\obj\Debug\Gerador de Senha.pdb
